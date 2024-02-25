@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Dokan
+ * Plugin Name: Comun store (based on dokan)
  * Plugin URI: https://dokan.co/wordpress/
- * Description: An e-commerce marketplace plugin for WordPress. Powered by WooCommerce and weDevs.
- * Version: 3.9.8
- * Author: weDevs
+ * Description: Comun store based on dokan!
+ * Version: 3.9.X
+ * Author: Denni & weDevs
  * Author URI: https://dokan.co/
  * Text Domain: dokan-lite
  * WC requires at least: 5.0.0
